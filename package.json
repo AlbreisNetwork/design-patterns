@@ -1,0 +1,23 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Lista de Design Patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbreisNetwork/design-patterns.git"
+  },
+  "keywords": [
+    "design",
+    "patterns"
+  ],
+  "author": "Albreis - Design & Programação",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AlbreisNetwork/design-patterns/issues"
+  },
+  "homepage": "https://github.com/AlbreisNetwork/design-patterns#readme"
+}
